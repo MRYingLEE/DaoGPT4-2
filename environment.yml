@@ -8,5 +8,4 @@ dependencies:
   - scipy
   - xarray
   - pandas
-  - cartopy
   - cdsapi
